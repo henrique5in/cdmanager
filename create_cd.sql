@@ -9,5 +9,5 @@ CREATE TABLE `cd` (
 )
 COLLATE='utf8mb4_general_ci'
 ENGINE=InnoDB
-AUTO_INCREMENT=6
+AUTO_INCREMENT=1
 ;
