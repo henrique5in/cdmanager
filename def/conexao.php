@@ -1,6 +1,6 @@
 <?php
-    $username = 'cdmanager';
-    $password = ')%J@z8HaCkn)';
+    $username = 'seu usuario';
+    $password = 'sua senha)';
     try{
         $pdo = new PDO('mysql:host=localhost;dbname=cdmanager', $username, $password);
         //echo "Conectado!!!";
